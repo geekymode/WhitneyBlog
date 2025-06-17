@@ -232,13 +232,7 @@ knitr::include_graphics("images/waterfall0.jpg")
 ```
 
 
-```{r figBlueBird, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Plenty of Steller's Jay birds showing of their beauty all around. This one was quite friendly at the Whitney portal area.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
-knitr::include_graphics("images/bird.jpg")
-```
 
-```{r figFlower, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "വിടർന്നൂ മരുഭൂവിൻ എരിവെയിലിലും പൂക്കൾ, Flowers bloomed even in the scorching sun of the desert. Even in this heat, there was music in the air, there were the occasional flowers and ofcourse plenty of hope. The Malayalam script is from this famous song from [Moonampakkam](https://www.youtube.com/watch?v=KX7dikJQA4w)", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
-knitr::include_graphics("images/flower.jpg")
-```
 ## The Descent
 
 The descent presented its own unique set of challenges and rewards. What had been a manageable climb in the cool pre dawn darkness became a test of endurance under the full exposure of the high altitude sun. With minimal shade available on the exposed granite slopes, the sun's intensity at elevation was relentless. Each step downward felt like walking through a furnace.
@@ -247,20 +241,43 @@ The contrast was striking. We'd begun our journey bundled in layers against the 
 
 The sleep deprivation that had plagued me earlier finally caught up during the descent, but fortunately, the mountain provided its own remedy. Near the cascading waterfalls and rushing creeks, I managed to steal a couple of short power naps. There's something almost meditative about the sound of water gushing over granite. The constant, rhythmic flow created a natural white noise that seemed to wash away the fatigue and stress of the challenging climb. These brief rest stops became unexpected highlights of the descent, offering both physical recovery and a moment of zen like tranquility in the wilderness.
 
+```{r figBlueBird, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Plenty of Steller's Jay birds showing of their beauty all around. This one was quite friendly at the Whitney portal area.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+knitr::include_graphics("images/bird.jpg")
+```
+
+
+
+```{r figFlower, fig.margin = FALSE, fig.width= 8, fig.height= 8, fig.cap = "വിടർന്നൂ മരുഭൂവിൻ എരിവെയിലിലും പൂക്കൾ, Flowers bloomed even in the scorching sun of the desert. Even in this heat, there was music in the air, there were the occasional flowers and ofcourse plenty of hope. The Malayalam script is from this famous song from [Moonampakkam](https://www.youtube.com/watch?v=KX7dikJQA4w)", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+knitr::include_graphics("images/flower.jpg")
+```
+
+
+```{r figBlueBird2, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Now he says he looks best from this side. I oblige!", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+knitr::include_graphics("images/bird2.jpg")
+```
+
+
 But the challenging descent also revealed some of the most spectacular scenery of our entire adventure. Mirror Lake appeared incredibly clear and pristine. We didn't have the chance to explore it fully, but even from our vantage point, we could see why it earned its name. 
+
+
+
+
 
 Dramatic was our encounter with Consultation Lake higher up on our route. This lake was a testament to winter's lingering grip on the high Sierra, with its surface partially frozen in fascinating patterns. The ice stretched across portions of the lake's surface. Some areas clear, others clouded with trapped air bubbles and snow, while open water remained visible in other sections. This partially frozen surface created an otherworldly landscape, like walking past a giant natural ice rink suspended thousands of feet above sea level, where winter and spring were locked in their eternal dance.
 
 This June and is technically beginning of summer. It looked as though spring was still asserting itself in some areas while winter held firm in others, creating a dynamic landscape that seemed to change with every turn of the trail.
 
-```{r figGateend, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Trail gate finally. We started the ascend through this pretty gate in the dark and returned through the very same gate at dusk.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
-knitr::include_graphics("images/gate1.jpg")
-```
+
+
 
 ## Friendship
 
 Perhaps the most unexpected and rewarding aspect of this Mt. Whitney adventure was the camaraderie that developed among our hiking group. What began as a shared goal to summit California's highest peak evolved into something far more valuable. Genuine friendships forged in this process.
 
+
+```{r figGateend, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Trail gate finally. We started the ascend through this pretty gate in the dark and returned through the very same gate at dusk.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+knitr::include_graphics("images/gate1.jpg")
+```
 
 Our group had been preparing for this moment for months, with most of the team dedicating nearly every weekend to long ascents over the past six months. While I managed to join them for only a few of these training hikes (San Gorgonio and a couple of El Cajon mountain climbs), those shared preparation experiences had already begun building the foundation of trust and friendship that would prove invaluable on Whitney.
 
@@ -268,25 +285,33 @@ The magic of mountain friendships lies in their intensity and authenticity. When
 
 There's something about the mountain environment that strips away the superficial layers of social interaction. When you're tired, cold, and pushing your limits, you see people as they really are. Our group supported each other through the challenging sections, shared food and water freely, and celebrated small victories together. The marmot encounter at base camp had us all laughing and sharing stories, while the difficult decision to turn back from the chute was made collectively, with everyone's input valued and respected.
 
+
+```{r figFar, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "You cant see me off that easily, so says Mt Whitney", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+knitr::include_graphics("images/off.jpg")
+```
+
 The photography sessions along the way became particularly memorable. Not just for documenting our adventure, but for the spontaneous moments of joy they captured. Whether it was someone striking a dramatic pose against the granite backdrop or candid shots of us trudging through the snow covered switchbacks, these images would later serve as tangible reminders of the fun we had together despite the challenging conditions.
 
 By the time we were making our sun baked descent, tired but triumphant in our own way, we knew that the real summit we'd achieved wasn't measured in elevation gained. We'd built something that would outlast any temporary physical accomplishment. Friendships rooted in shared challenge, mutual support, and the kind of authentic experiences that only the mountains can provide.
+
 
 
 ## The Real Victory
 
 Despite the punishing sun exposure during our descent, tired but exhilarated, we realized that we'd achieved something significant. We'd pushed our limits, experienced one of California's most spectacular wilderness areas in ideal conditions, and made smart decisions when conditions changed. We'd witnessed sunrise from 12,000 feet, navigated technical terrain safely, and gained invaluable experience for future adventures.
 
+
 Mt. Whitney will still be there for our next attempt. The summit isn't going anywhere. But the experience we had (the complete alpine adventure, the night sky, the challenging conditions, the wildlife, the incredible scenery, and the lessons learned) is something we'll carry with us forever.
 
 Sometimes the mountain gives you the summit. Sometimes it gives you something even better: a perfect day in the high country, a deeper understanding of your own capabilities and limitations, and memories that will inspire future adventures. On this particular day, Mt. Whitney gave us exactly what we needed, even if it wasn't exactly what we'd planned.
 
 
+
 # Disclaimer
 
-If you haven't figured it out yet, the proofreading of this was done using a local tool developed with [Ollama](https://ollama.com). I thought it did a pretty decent job fixing the grammar (although I had to run another round of manual proofreading to avoid a few meanderings). This is still a work in progress.
+If you haven't figured it out yet, the proofreading of this was done using a local tool developed with [Ollama](https://ollama.com). I thought it did a pretty decent job fixing the grammar (although I had to run another round of manual proofreading to avoid a few meandering issues). This is still a work in progress.
 
-The article itself is written in R Markdown. All photos (unless explicitly mentioned otherwise) are taken by myself or my hiking buddies, **The Trail Blazers**. 
+The article itself is written in R Markdown. All photos (unless explicitly mentioned otherwise) are taken by myself or my hiking buddies, **The Trail Blazers**. For typesetting, I have used the Tufte handout style format (thanks to [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte)), which reads best when viewed on a computer or, if on a phone/tablet, when the device is held horizontally.
 
 ```{r bib, include=FALSE}
 # create a bib file for the R packages used in this document
