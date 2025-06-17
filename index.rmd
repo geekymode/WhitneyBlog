@@ -1,5 +1,5 @@
 ---
-title: "Dancing with Giants: A Pre Dawn Journey to Mt. Whitney"
+title: "Journey to Mt. Whitney"
 runningheader: "For pdf output" # only for pdf output
 subtitle: "In and around Warsaw" # only for html output
 author: "Rethna Pulikkoonattu"
@@ -7,7 +7,6 @@ date: "2025-06-16"
 
 output:
   tufte::tufte_html: 
-    includes:
   tufte::tufte_handout:
     citation_package: natbib
     latex_engine: xelatex
@@ -32,19 +31,19 @@ knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
 options(htmltools.dir.version = FALSE)
 ```
 
-I had set the alarm for 11:29 PM (yes, PM for a wake up!), but I was already awake since 9 PM, heart racing with anticipation. By 12:58 AM, 11 of us^[Actually we were split into two groups at the start as previously planned. Half of us had even began the ascend an hour early, but we would eventually catch before the trail camp] and as many headlamps cut through the crisp mountain air as we began our ascent from Whitney Portal, embarking on what would become one of the most memorable alpine adventures of our lives.
+For 12 June 2025, the alarm on the phone was set for 11:29 PM (yes, PM for a wake up!), but I was already awake since 9 PM, heart racing with anticipation. By 12:58 AM, 11 of us^[We were split into two groups at the start as previously had planned. Half of us began the ascend an hour early, but we would eventually catch up before arriving at the trail camp] and as many headlamps cut through the crisp mountain air as we began our ascent from Whitney Portal, embarking on what would become one of the most memorable alpine adventures of our lives.
 
-```{r figGate, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Trail starting gate", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figGate, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "At the Whitney portal, this iconic wooden gate structure is the one every hiker will pass through. They also have a weighing machine to calibrate your backpack situation.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/gate2.jpg")
 ```
 
 ## Into the Night
 
 
-```{r figWall, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Waterfall beauty.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figWall, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Waterfall beauty. *ആരുടെ മായാമോഹമായ് ആരുടെ രാഗഭാവമായ് ആയിരം വർ‌ണ്ണരാജികളിൽ ഗാനമുണർത്തും ശ്രുതി മുഴങ്ങി..*", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/waterfall1.jpg")
 ```
-Starting a Mt. Whitney^[Mount Whitney is the highest point in the contiguous U.S. at 14494 feet (4418 meters) above sea level and represents the Sierra Nevada's greatest summit.] day hike in the depths of night transforms the entire experience. The world becomes intimate and vast simultaneously. Your circle of light reveals only the immediate trail ahead while the towering presence of the Sierra Nevada looms invisibly around you. Each step forward is an act of faith, trusting the switchbacks that wind steadily upward through the darkness. I had done some hikes in the dark before, but nothing like this early and certainly not to this scale! So this was a first of a kind. 
+Starting a Mt. Whitney^[Mount Whitney is the highest point in the contiguous U.S. at 14494 feet (4418 meters) above sea level and represents the Sierra Nevada's greatest summit. It is named after geologist [Josiah Whitney](https://en.wikipedia.org/wiki/Josiah_Whitney), the very same name sake of Whitney glacier] day hike in the depths of night transforms the entire experience. The world becomes intimate and vast simultaneously. Your circle of light reveals only the immediate trail ahead while the towering presence of the Sierra Nevada looms invisibly around you. Each step forward is an act of faith, trusting the switchbacks that wind steadily upward through the darkness. I had done some hikes in the dark before, but nothing like this early and certainly not to this scale! So this was a first of a kind. 
 
 The night sky above was spectacular. The Milky Way wasn't visible as such to the naked eye, but I am sure it stretched across the heavens. Countless stars sparkled with an intensity that made our headlamps seem almost unnecessary. The moon was amazing and full, yet the stars were plentiful. There's something profoundly humbling about hiking beneath such a canopy. It puts your own journey into perspective while simultaneously making you feel part of something infinitely larger.
 
@@ -120,9 +119,10 @@ knitr::include_graphics("images/chute.jpg")
 knitr::include_graphics("images/cable.jpg")
 ```
 
-```{r figWoodPath, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Wooden crossing", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figWoodPath, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Seeing the few wooden crossings again on the way back, and after witnessing many streams, mountains and timber, I was thinking about Neruda's words: **'I grew up in this town, my poetry was born between the hill and the river, it took its voice from the rain, and like the timber, it steeped itself in the forests.'**", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/woodcross0.jpg")
 ```
+
 
 ```{r figViewBack, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "View of the Lone Pike valley", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/back.jpg")
@@ -149,19 +149,17 @@ Fortunately, I didn't experience any altitude sickness or other altitude related
 
 The decision to turn back wasn't made lightly. We were tantalizingly close to our goal, and the summit of Mt. Whitney seemed almost within reach. But mountain safety isn't just about reaching the top. It's about making it back down safely. The combination of deteriorating ice conditions, the time constraints of a day hike, and my own sleep deprived state made the choice clear, even if it wasn't easy.
 
-As the ice became increasingly slushy, we realized our equipment wasn't adequate for the changing conditions. What we needed were more aggressive crampons or different timing. Either starting even earlier to complete the climb while conditions remained firm, or planning for an overnight approach that would allow us to tackle the technical sections during the optimal early morning hours.
+As the ice became increasingly slushy, we realized our equipment wasn't adequate for the changing conditions. Perhaps aggressive crampons could have helped. Either starting even earlier to complete the climb while conditions remained firm, or planning for an overnight approach that would allow us to tackle the technical sections during the optimal early morning hours.
 
 ## The True Summit
 
-While we didn't reach Whitney's 14,505 foot peak that day, we experienced something equally valuable. The alpine environment revealed itself in all its glory as we made our descent. Snow covered peaks stretched endlessly in every direction, each one catching and reflecting the strengthening sunlight. Birds soared on thermal currents rising from the warming valleys below, their calls echoing off the granite walls.
-
-The abundance of snow transformed the familiar landscape into something magical. Every tree, every rock formation, every distant peak appeared stunning. Mountain creeks, swollen with snow melt, created a constant soundtrack of rushing water. Nature's own symphony accompanying our journey.
+While we didn't reach Whitney's 14,505 foot peak that day, we experienced something equally valuable. The alpine environment revealed itself in all its glory as we made our descent. Snow covered peaks, views of lakes and the warming valleys below, birds calls echoing off the granite walls. Every tree, every rock formation, every distant peak appeared stunning. Mountain creeks, swollen with snow melt, created a constant soundtrack of rushing water. Nature's own symphony accompanying our journey.
 
 ## Lessons from the Mountain
 
 Our Mt. Whitney attempt taught us valuable lessons about mountain climbing and, perhaps more importantly, about knowing when to be content with what you've achieved rather than pushing for what you think you should achieve. The mountains have their own timeline, their own conditions, and their own rules. Respecting these isn't a sign of failure. It's a sign of wisdom and experience.
 
-The pre dawn start had given us something precious: hours of solitude in one of America's most spectacular wilderness areas. We'd witnessed the transition from night to day, watched the mountains wake up, and experienced the unique magic that comes with being in the high country when the rest of the world is still asleep.
+The pre dawn start had given us something precious. Those hours of solitude in one of America's most spectacular wilderness areas. We'd witnessed the transition from night to day, watched the mountains wake up, and experienced the unique magic that comes with being in the high country when the rest of the world is still asleep.
 
 ## The Alpine Experience
 
@@ -183,10 +181,9 @@ For those considering their own Mt. Whitney adventure, our experience offers sev
 However, ice conditions can change rapidly, and what seems manageable at 2 AM might become dangerous by 10 AM. Having the right equipment for the conditions you'll actually encounter, not just the conditions you expect, is crucial. More importantly, having the flexibility to change your plans based on what the mountain gives you is perhaps the most valuable skill any mountaineer can develop.
 
 
+## Friendship
 
-## Bonds Forged in Stone: The Fellowship of the Mountain
-
-Perhaps the most unexpected and rewarding aspect of this Mt. Whitney adventure was the camaraderie that developed among our hiking group. What began as a shared goal to summit California's highest peak evolved into something far more valuable. Genuine friendships forged in the crucible of the high Sierra.
+Perhaps the most unexpected and rewarding aspect of this Mt. Whitney adventure was the camaraderie that developed among our hiking group. What began as a shared goal to summit California's highest peak evolved into something far more valuable. Genuine friendships forged in this process.
 
 
 ```{r figIcyWater, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Water streams behind icy plates", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
@@ -212,7 +209,7 @@ knitr::include_graphics("images/flower.jpg")
 ```
 
 
-```{r figPortalWaterfall1, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "At the whitney portal, there is a waterfall which itself is worth a visit.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figPortalWaterfall1, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "The Whitney Portal features a beautiful stream that alone makes the location worth visiting. The area offers excellent amenities including campgrounds, a picnic area, and a fishing pond alongside this scenic waterway. The portal also has a store that sells souvenirs and food. The store is famous for serving enormous pancakes at breakfast. We enjoyed their sandwiches and chips for lunch, while enjoying the company of some blue birds, squirrels and some french Canadian motor riders chatting behind.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/portal_waterfall1.jpg")
 ```
 
@@ -229,42 +226,21 @@ By the time we were making our sun baked descent, tired but triumphant in our ow
 
 ## The Descent: Sun, Lakes, and New Challenges
 
-The descent presented its own unique set of challenges and rewards. What had been a manageable climb in the cool pre dawn darkness became a test of endurance under the full exposure of the high altitude sun. With minimal shade available on the exposed granite slopes, the sun's intensity at elevation was relentless. Each step downward felt like walking through a furnace, the rock radiating heat and our bodies working overtime to stay cool in the thin air.
+The descent presented its own unique set of challenges and rewards. What had been a manageable climb in the cool pre dawn darkness became a test of endurance under the full exposure of the high altitude sun. With minimal shade available on the exposed granite slopes, the sun's intensity at elevation was relentless. Each step downward felt like walking through a furnace.
 
-The contrast was striking. We'd begun our journey bundled in layers against the mountain cold, and now we were stripping down to base layers, desperately seeking any pocket of shade the terrain might offer. Hydration became critical, and we found ourselves rationing water more carefully than we had anticipated, grateful for every mountain stream we encountered along the way.
+The contrast was striking. We'd begun our journey bundled in layers against the mountain cold, and now we were stripping down to base layers, desperately seeking any pocket of shade the terrain might offer. Hydration became critical, but, grateful for every mountain stream we encountered along the way.
 
 The sleep deprivation that had plagued me earlier finally caught up during the descent, but fortunately, the mountain provided its own remedy. Near the cascading waterfalls and rushing creeks, I managed to steal a couple of short power naps. There's something almost meditative about the sound of water gushing over granite. The constant, rhythmic flow created a natural white noise that seemed to wash away the fatigue and stress of the challenging climb. These brief rest stops became unexpected highlights of the descent, offering both physical recovery and a moment of zen like tranquility in the wilderness.
 
-But the challenging descent also revealed some of the most spectacular scenery of our entire adventure. Mirror Lake appeared before us like a perfect jewel set in granite, and even viewing it from nearby, it already looked incredibly clear and pristine. We didn't have the chance to explore it fully, but even from our vantage point, we could see why it earned its name. A perfect mirror that doubled the visual impact of the towering mountains around it. Standing near its shores, we felt like we'd discovered a secret sanctuary hidden in the high country.
+But the challenging descent also revealed some of the most spectacular scenery of our entire adventure. Mirror Lake appeared incredibly clear and pristine. We didn't have the chance to explore it fully, but even from our vantage point, we could see why it earned its name. 
 
-Even more dramatic was our encounter with Consultation Lake higher up on our route. Unlike Mirror Lake's liquid perfection, this lake was a testament to winter's lingering grip on the high Sierra, with its surface partially frozen in fascinating patterns. The ice stretched across portions of the lake's surface. Some areas crystal clear, others clouded with trapped air bubbles and snow, while open water remained visible in other sections. This partially frozen surface created an otherworldly landscape, like walking past a giant natural ice rink suspended thousands of feet above sea level, where winter and spring were locked in their eternal dance.
+Dramatic was our encounter with Consultation Lake higher up on our route. This lake was a testament to winter's lingering grip on the high Sierra, with its surface partially frozen in fascinating patterns. The ice stretched across portions of the lake's surface. Some areas clear, others clouded with trapped air bubbles and snow, while open water remained visible in other sections. This partially frozen surface created an otherworldly landscape, like walking past a giant natural ice rink suspended thousands of feet above sea level, where winter and spring were locked in their eternal dance.
 
-The interplay between these two lakes (one liquid and reflective, the other solid and sculptural) perfectly captured the transitional nature of the season we'd chosen for our climb. Spring was beginning to assert itself in some areas while winter held firm in others, creating a dynamic landscape that seemed to change with every turn of the trail.
+This June and is technically beginning of summer. It looked as though spring was still asserting itself in some areas while winter held firm in others, creating a dynamic landscape that seemed to change with every turn of the trail.
 
-```{r figGateend, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Trail starting gate. We started the ascend through this gate and just returned through the very same gate.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figGateend, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Trail gate finally. We started the ascend through this pretty gate in the dark and returned through the very same gate at dusk.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/gate1.jpg")
 ```
-
-## Trail Encounters: The Global Mt. Whitney Community
-
-One of the most delightful aspects of our descent was the chance encounters with fellow adventurers from around the world. The Mt. Whitney trail, it turns out, attracts an incredibly diverse international community of hikers, each with their own stories and motivations for taking on California's highest peak.
-
-We struck up friendly conversations with a spirited group of girls from Estonia who were tackling Whitney as part of a larger American adventure tour. Their enthusiasm was infectious, and despite the language barriers, we found ourselves sharing stories about our respective mountain experiences back home. It was fascinating to learn about hiking culture in Estonia and to realize how universal the call of the mountains truly is.
-
-A German couple we met was on their third attempt at Whitney. A testament to both the mountain's challenge and its magnetic pull. They shared valuable insights about route conditions and timing, having learned hard lessons from their previous attempts. Their persistence and positive attitude despite past setbacks was truly inspiring, reminding us that sometimes the mountain teaches us as much through our "failures" as through our successes.
-
-Perhaps most intriguingly, we encountered another group that was preparing for a night ascent through the chute. The same route we had attempted earlier in the day. Seeing their gear and hearing their plan brought back memories of our own morning's challenges, and we found ourselves sharing detailed information about the ice conditions they might encounter. The mountain community's willingness to share crucial safety information with fellow climbers exemplifies the best aspects of outdoor culture.
-
-These chance meetings reminded us that while each person's mountain experience is deeply personal, we're all part of a larger community of adventurers drawn to these high places for reasons that transcend nationality, language, or cultural background.
-
-## Lessons from Local Success
-
-Our Mt. Whitney adventure had actually begun the day before our climb, on June 12th, when we stopped at the cafe in Whitney Portal for a meal and final preparations. There we had the good fortune to meet a group of accomplished hikers from Temecula who had just successfully completed the chute route and reached the summit the previous day. These men were clearly in exceptional physical condition, and their confidence and experience showed in every aspect of their approach to the mountain.
-
-Listening to their detailed account of the chute conditions, timing strategies, and equipment choices provided valuable real world intelligence that guidebooks simply can't offer. They emphasized the importance of starting even earlier than we had planned and spoke about the specific sections where crampons were absolutely essential. Their success story served as both inspiration and a reality check. It reinforced that the route was definitely achievable, but also highlighted the level of preparation, fitness, and technical skill required to do it safely.
-
-Meeting these successful climbers the day before our attempt added an extra layer of anticipation to our own journey. We knew it could be done because we'd just spoken with people who had done it, but we also understood that success would demand everything we had to give and then some.
-
 
 ## The Real Victory
 
