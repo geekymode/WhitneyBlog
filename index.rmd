@@ -75,7 +75,7 @@ knitr::include_graphics("images/sunrise_web.jpg")
 
 As we gained elevation, the moonlight began revealing the magnificent pine trees that define this section of the Sierra Nevada. While these trees weren't the massive giants I'd encountered in other forests, they possessed their own grand presence. Tall, stately conifers that seemed to stand as silent sentinels along our path. Some reached impressive heights, their massive trunks disappearing into the darkness above our lights, creating a cathedral like atmosphere as we wound our way between them. These towering trees created an almost mystical quality to the early stages of our climb, making each turn of the trail a small revelation. I did see some fallen trees and that instantly reminded me my favorite Keane hit ["Somewhere Only We Know"](https://www.youtube.com/watch?v=Oextk-If8HQ) album.
 
-## Reaching Base Camp
+## Reaching trail camp
 
 
 ```{r figWhitneyViewFromLake, fig.margin = TRUE, fig.width= 10, fig.height= 8, fig.cap = "Immediateley after the sunrise, the daylight came flashing hard and all of a sudden the granite giants stood firm and bright.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
@@ -85,7 +85,7 @@ knitr::include_graphics("images/whitney_view.jpg")
 
 
 
-After nearly six hours of steady climbing through the pre dawn darkness, we reached the base camp at 7 AM. The two hours leading upto was a unique spectacle staged on a vast arena of the mountain passage. The eastern sky was beginning to blush with the first hints of sunrise, gradually revealing the magnificent landscape that had been hidden in darkness during our ascent. I will never forget that experience.
+After nearly six hours of steady climbing through the pre dawn darkness, we reached the trail camp at 7 AM. The two hours leading upto was a unique spectacle staged on a vast arena of the mountain passage. The eastern sky was beginning to blush with the first hints of sunrise, gradually revealing the magnificent landscape that had been hidden in darkness during our ascent. I will never forget that experience.
 
 
 ```{r figDawn, fig.fullwidth=TRUE,fig.margin = FALSE, fig.width= 8, fig.height= 8, fig.cap = "At dawn the light arrived like a whispered promise, spilling secrets of gold.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
@@ -103,7 +103,7 @@ knitr::include_graphics("images/sunrise.jpg")
 
 
 
-We spent two hours at base camp, partly to rest and refuel, but mostly to soak in the incredible scenery that daylight had unveiled. The granite peaks surrounding us caught the early morning light, transforming from shadowy silhouettes into gleaming monuments of stone. Waterfalls cascaded down distant cliffs, golden lights flashed for a few seconds, but once arrived on the stage, sun was srong and intense. Did the mountain creeks sing their eternal songs as snow melt found its way downhill? Perhaps!
+We spent two hours at trail camp, partly to rest and refuel, but mostly to soak in the incredible scenery that daylight had unveiled. The granite peaks surrounding us caught the early morning light, transforming from shadowy silhouettes into gleaming monuments of stone. Waterfalls cascaded down distant cliffs, golden lights flashed for a few seconds, but once arrived on the stage, sun was srong and intense. Did the mountain creeks sing their eternal songs as snow melt found its way downhill? Perhaps!
 
 
 ```{r figFullWhitney, fig.fullwidth=TRUE,fig.margin = FALSE, fig.cap = "The sun kissed the Whitney peaks, and they blushed rose for a second", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
@@ -283,7 +283,7 @@ Our group had been preparing for this moment for months, with most of the team d
 
 The magic of mountain friendships lies in their intensity and authenticity. When you're sharing the challenges of a pre dawn start, navigating icy conditions together, and making crucial safety decisions as a group, pretense falls away quickly. Our conversations ranged from serious discussions about route conditions to lighthearted gossip that had us laughing despite our exhaustion. The shared moments of wonder (pointing out particularly spectacular views, capturing photos of each other against the dramatic Sierra backdrop, and even engaging in the kind of harmless pranks that make tough miles pass more quickly) created bonds that extended far beyond the trail.
 
-There's something about the mountain environment that strips away the superficial layers of social interaction. When you're tired, cold, and pushing your limits, you see people as they really are. Our group supported each other through the challenging sections, shared food and water freely, and celebrated small victories together. The marmot encounter at base camp had us all laughing and sharing stories, while the difficult decision to turn back from the chute was made collectively, with everyone's input valued and respected.
+There's something about the mountain environment that strips away the superficial layers of social interaction. When you're tired, cold, and pushing your limits, you see people as they really are. Our group supported each other through the challenging sections, shared food and water freely, and celebrated small victories together. The marmot encounter at trail camp had us all laughing and sharing stories, while the difficult decision to turn back from the chute was made collectively, with everyone's input valued and respected.
 
 
 ```{r figFar, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "You cant see me off that easily, so says Mt Whitney", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
