@@ -243,7 +243,7 @@ The contrast was striking. We'd begun our journey bundled in layers against the 
 
 The sleep deprivation that had plagued me earlier finally caught up during the descent, but fortunately, the mountain provided its own remedy. Near the cascading waterfalls and rushing creeks, I managed to steal a couple of short power naps. There's something almost meditative about the sound of water gushing over granite. The constant, rhythmic flow created a natural white noise that seemed to wash away the fatigue and stress of the challenging climb. These brief rest stops became unexpected highlights of the descent, offering both physical recovery and a moment of zen like tranquility in the wilderness.
 
-```{r figBlueBird, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Plenty of Steller's Jay birds showing of their beauty all around. This one was quite friendly at the Whitney portal area.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figBlueBird, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Plenty of Steller's Jay birds showing of their beauty all around. This one was quite friendly.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/bird.jpg")
 ```
 
@@ -254,7 +254,7 @@ knitr::include_graphics("images/flower.jpg")
 ```
 
 
-```{r figBlueBird2, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "She turns and insists on this pose. I happily oblige and click!", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figBlueBird2, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "She turns and insists on this pose. The blue spots and black shades look better this way? I happily oblige and clicked one!", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/bird2.jpg")
 ```
 
