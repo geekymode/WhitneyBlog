@@ -135,7 +135,7 @@ knitr::include_graphics("images/chute.jpg")
 ```
 
 
-```{r figCable, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "The cable section on the 99 switch back route had quite of snow to be dealt with.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figCable, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "The cable section on the 99 switch back route had quite of snow to be dealt with. It wass at this juncture, our first team decided to call off plans to ascend any farther.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/cable.jpg")
 ```
 
