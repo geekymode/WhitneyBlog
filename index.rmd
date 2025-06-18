@@ -40,7 +40,7 @@ knitr::include_graphics("images/gate2.jpg")
 ## Into the Night
 
 
-```{r figWall, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "This was my first stunning moment of joy on the trail. A picture like this often hung on the walls of barber shops of yore in villages of Kerala, back in the 1980s. So many poems and songs flashed through my mind seeing this. Arundhati Roy's [Aymanam](https://www.keralatourism.org/destination/aymanam/617/) from [The God of Small Things](https://en.wikipedia.org/wiki/The_God_of_Small_Things) as well. She would have penned something like this seeing this, I thought: *Waters that whispered secrets to the night, silvered by a moon that had forgotten how to sleep.* If you watched the Malayalam movie song [Indulekha Kanthurannu](https://youtu.be/udzpQ39ldFA?si=XeuJun3BZbAXgd4S&t=124) from Oru Vadakkan VeeraGadha, the setting was much like this above. It was simply spectacular.  *ആരുടെ മായാമോഹമായ് ആരുടെ രാഗഭാവമായ് ആയിരം വർ‌ണ്ണരാജികളിൽ ഗാനമുണർത്തും ശ്രുതി മുഴങങി..*", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figWall, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "It was shot at 01:30am. This was my first stunning moment of joy on the trail. A picture like this often hung on the walls of barber shops (less fancy version of hair cutting saloons) of yore in villages of Kerala, back in the 1980s. So many poems and songs flashed through my mind seeing this. Arundhati Roy's [Aymanam](https://www.keralatourism.org/destination/aymanam/617/) from [The God of Small Things](https://en.wikipedia.org/wiki/The_God_of_Small_Things) as well. She would have penned something like this seeing this, I thought: *Waters that whispered secrets to the night, silvered by a moon that had forgotten how to sleep.* If you watched the Malayalam movie song [Indulekha Kanthurannu](https://youtu.be/udzpQ39ldFA?si=XeuJun3BZbAXgd4S&t=124) from Oru Vadakkan VeeraGadha, the setting was much like this above. It was simply spectacular.  *ആരുടെ മായാമോഹമായ് ആരുടെ രാഗഭാവമായ് ആയിരം വർ‌ണ്ണരാജികളിൽ ഗാനമുണർത്തും ശ്രുതി മുഴങങി..*", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/waterfall1.jpg")
 ```
 
@@ -48,9 +48,9 @@ Starting a Mt. Whitney^[Mount Whitney is the highest point in the contiguous U.S
 
 The night sky above was spectacular. The Milky Way wasn't visible as such to the naked eye, but I am sure it stretched across the heavens. Countless stars sparkled with an intensity that made our headlamps seem almost unnecessary. The moon was amazing and full, yet the stars were plentiful. There's something profoundly humbling about hiking beneath such a canopy. It puts your own journey into perspective while simultaneously making you feel part of something infinitely larger.
 
-About two miles into our ascent, still shrouded in darkness with only our headlamps cutting through the pre dawn air, we began to hear the first signs of the Sierra's lifeblood. The sound of water gushing through the darkness. Even though the trail remained well marked and visible under our lights, these auditory hints of rushing water added a new dimension to our night journey, promising the water crossings that lay ahead.
+About a mile into our ascent, still shrouded in darkness with only our headlamps cutting through the pre dawn air, we began to hear the first signs of the Sierra's lifeblood. The sound of water gushing through the darkness. Even though the trail remained well marked and visible under our lights, these auditory hints of rushing water added a new dimension to our night journey, promising the water crossings that lay ahead.
 
-By around 2 AM, we encountered our first stream crossings, and they felt absolutely magical. After hours of steady climbing in the dry mountain air, the sound and sight of crystal clear Sierra snowmelt rushing over granite was incredibly refreshing. Each water crossing became a small celebration. A chance to refill bottles, splash cool water on our faces, but that early hours of the day not really. But we could listen to the melodic symphony of mountain streams that would accompany us throughout our climb. The famous romantic lines by [Pablo Neruda](https://en.wikipedia.org/wiki/Pablo_Neruda) came to my mind:
+At 01:30 AM, we encountered our first stream crossings, and they felt absolutely magical. After hours of steady climbing in the dry mountain air, the sound and sight of crystal clear Sierra snowmelt rushing over granite was incredibly refreshing. Each water crossing became a small celebration. A chance to refill bottles, splash cool water on our faces, but that early hours of the day not really. But we could listen to the melodic symphony of mountain streams that would accompany us throughout our climb. The famous romantic lines by [Pablo Neruda](https://en.wikipedia.org/wiki/Pablo_Neruda) came to my mind:
 
 > *I will bring you happy flowers from the mountains, bluebells, dark hazels, and rustic baskets of kisses. I want to do with you what spring does with the cherry trees.*
 >
@@ -66,7 +66,7 @@ knitr::include_graphics("images/heaven1.jpg")
 
 
 
-```{r figSunriseWeb, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "An image sourced from [Brad Spiess](https://www.ihikesandiego.com/about-me/). I had always wished to witness and perhaps even capture an image such as this one by [Brad Spiess](https://www.ihikesandiego.com/about-me/). You can see this image [The whitney sunrise from the trail camp near the iceberg lake](https://www.ihikesandiego.com/wp-content/uploads/2013/10/Sunrise-at-Trail-Camp-small.jpg) and also read his fantastic blog here. We were touch late to get there by then.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figSunriseWeb, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "An image sourced from [Brad Spiess](https://www.ihikesandiego.com/about-me/)'s blog. I had always wished to witness and perhaps even capture an image such as this one by [Brad Spiess](https://www.ihikesandiego.com/about-me/). You can see this image [The whitney sunrise from the trail camp near the iceberg lake](https://www.ihikesandiego.com/wp-content/uploads/2013/10/Sunrise-at-Trail-Camp-small.jpg). His fantastic blog is worth a read. We were touch late to get to the trail camp to witness this experience.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/sunrise_web.jpg")
 ```
 
@@ -75,7 +75,7 @@ knitr::include_graphics("images/sunrise_web.jpg")
 
 As we gained elevation, the moonlight began revealing the magnificent pine trees that define this section of the Sierra Nevada. While these trees weren't the massive giants I'd encountered in other forests, they possessed their own grand presence. Tall, stately conifers that seemed to stand as silent sentinels along our path. Some reached impressive heights, their massive trunks disappearing into the darkness above our lights, creating a cathedral like atmosphere as we wound our way between them. These towering trees created an almost mystical quality to the early stages of our climb, making each turn of the trail a small revelation. I did see some fallen trees and that instantly reminded me my favorite Keane hit ["Somewhere Only We Know"](https://www.youtube.com/watch?v=Oextk-If8HQ) album.
 
-## Reaching trail camp
+## Reaching the Trail Camp
 
 
 ```{r figWhitneyViewFromLake, fig.margin = TRUE, fig.width= 10, fig.height= 8, fig.cap = "Immediateley after the sunrise, the daylight came flashing hard and all of a sudden the granite giants stood firm and bright.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
@@ -106,7 +106,7 @@ knitr::include_graphics("images/sunrise.jpg")
 We spent two hours at trail camp, partly to rest and refuel, but mostly to soak in the incredible scenery that daylight had unveiled. The granite peaks surrounding us caught the early morning light, transforming from shadowy silhouettes into gleaming monuments of stone. Waterfalls cascaded down distant cliffs, golden lights flashed for a few seconds, but once arrived on the stage, sun was srong and intense. Did the mountain creeks sing their eternal songs as snow melt found its way downhill? Perhaps!
 
 
-```{r figFullWhitney, fig.fullwidth=TRUE,fig.margin = FALSE, fig.cap = "The sun kissed the Whitney peaks, and they blushed rose for a second", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figFullWhitney, fig.fullwidth=TRUE,fig.margin = FALSE, fig.cap = "The sun kissed the Whitney peaks, and she blushed rose for a second. Elle s'est teintée de rose pendant un instant!", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/whitney1.jpg")
 ```
 
@@ -114,7 +114,7 @@ knitr::include_graphics("images/whitney1.jpg")
 knitr::include_graphics("images/icypath.jpg")
 ```
 
-At this point, we had two choices. We could take the hard chute. This route was dangerous. We would need to climb straight up using ice axes. Our other option was the regular trail. This trail goes up through 99 switchbacks. Usually this climb is straightforward but tiring. However, ice made it dangerous that day. We had to think carefully about each step. Frozen patches on the trail made things worse. The conditions were not good. Some people in our group tried this regular route.
+At this point, we faced two challenging options. The first was the regular trail, which ascends through 99 switchbacks. While this route is normally straightforward but tiring, the ice that day made it treacherous. Every step required careful consideration due to frozen patches scattered along the path, creating far from ideal conditions.
 
 
 
@@ -122,7 +122,7 @@ At this point, we had two choices. We could take the hard chute. This route was 
 knitr::include_graphics("images/sky2.jpg")
 ```
 
-```{r figWoodPath, fig.margin = FALSE, fig.width= 8, fig.height= 8, fig.cap = "Seeing the few wooden crossings on the trail, and after witnessing many streams, mountains and timber, I was thinking about Neruda's words: **'I grew up in this town, my poetry was born between the hill and the river, it took its voice from the rain, and like the timber, it steeped itself in the forests.'**", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figWoodPath, fig.margin = FALSE, fig.width= 8, fig.height= 8, fig.cap = "Seeing the few wooden crossings on the trail, and after witnessing many streams, mountains and timber, I was thinking about Neruda's words: *'I grew up in this town, my poetry was born between the hill and the river, it took its voice from the rain, and like the timber, it steeped itself in the forests.'* Neruda was born in 1904 in the mountainous frontier region of Temuco in Chile. I have never been there, but the material makeup of this landscape made me draw some remote parallels.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/woodcross0.jpg")
 ```
 
@@ -147,9 +147,11 @@ knitr::include_graphics("images/back.jpg")
 ```
 
 
-The majority of our team attempted the 99 switchback route, and four of us decided to attempt the chute. A more direct but significantly more technical route covered by ice to the summit. The chute represents the classic mountaineering challenge that Mt. Whitney can offer, requiring both physical endurance and technical skill.
+The second option was the hard chute, a more direct but significantly more technical route to the summit. This dangerous path required climbing straight up using ice axes and was covered in ice. The chute represents the classic mountaineering challenge that Mt. Whitney offers, demanding both physical endurance and technical skill.
 
-The first team went all the way to the cable section and decided to return after assessing the snow situation. The other team (where yours truly was) made it halfway up the chute before wisdom overcame ambition. The ice conditions, which had been merely sketchy lower down, were becoming genuinely dangerous. As the morning sun began to warm the slopes, the ice started turning slushy, and our crampons (adequate for the hard conditions we'd encountered earlier) were no longer providing the reliable grip we needed for safe passage. Once we realized that we wouldnt be able to summit before noon, we made the difficult decision to stop ascending further. 
+With conditions poor on both routes, our group split up. The majority of our team attempted the 99 switchback trail, while four of us decided to tackle the chute despite its technical difficulties.
+
+The first team went all the way to the cable section and decided to return after assessing the snow situation. The other team (including yours truly) made it halfway up the chute before wisdom overcame ambition. The ice conditions, which had been merely sketchy lower down, were becoming genuinely dangerous. As the morning sun began to warm the slopes, the ice started turning slushy, and our crampons (adequate for the hard conditions we'd encountered earlier) were no longer providing the reliable grip we needed for safe passage. Once we realized that we wouldnt be able to summit before noon, we made the difficult decision to stop ascending further. 
 
 ## Personal Battles
 
@@ -247,12 +249,12 @@ knitr::include_graphics("images/bird.jpg")
 
 
 
-```{r figFlower, fig.margin = FALSE, fig.width= 8, fig.height= 8, fig.cap = "വിടർന്നൂ മരുഭൂവിൻ എരിവെയിലിലും പൂക്കൾ, Flowers bloomed even in the scorching sun of the desert. Even in this heat, there was music in the air, there were the occasional flowers and ofcourse plenty of hope. The Malayalam script is from this famous song from [Moonampakkam](https://www.youtube.com/watch?v=KX7dikJQA4w)", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figFlower, fig.margin = FALSE, fig.width= 8, fig.height= 8, fig.cap = "വിടർന്നൂ മരുഭൂവിൻ എരിവെയിലിലും പൂക്കൾ, Flowers bloomed even in the scorching sun of the desert. Even in this heat, there was music in the air, there were the occasional flowers and ofcourse plenty of hope. The Malayalam script is from this famous song from [Moonampakkam](https://www.youtube.com/watch?v=KX7dikJQA4w). We spotted some alpine shooting stars ([primula tetrandra](https://en.wikipedia.org/wiki/Primula_tetrandra)) in the meadows. ", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/flower.jpg")
 ```
 
 
-```{r figBlueBird2, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Now he says he looks best from this side. I oblige!", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figBlueBird2, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "She turns and insists on this pose. I happily oblige and click!", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/bird2.jpg")
 ```
 
@@ -261,11 +263,13 @@ But the challenging descent also revealed some of the most spectacular scenery o
 
 
 
-
+```{r figBlueBirdX, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "May be her partner watching from here not approving this of?!", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+knitr::include_graphics("images/birdX.jpg")
+```
 
 Dramatic was our encounter with Consultation Lake higher up on our route. This lake was a testament to winter's lingering grip on the high Sierra, with its surface partially frozen in fascinating patterns. The ice stretched across portions of the lake's surface. Some areas clear, others clouded with trapped air bubbles and snow, while open water remained visible in other sections. This partially frozen surface created an otherworldly landscape, like walking past a giant natural ice rink suspended thousands of feet above sea level, where winter and spring were locked in their eternal dance.
 
-This June and is technically beginning of summer. It looked as though spring was still asserting itself in some areas while winter held firm in others, creating a dynamic landscape that seemed to change with every turn of the trail.
+This  is mid June and technically beginning of the summer here in California. It looked as though spring was still asserting itself in some areas while winter held firm in others, creating a dynamic landscape that seemed to change with every turn of the trail.
 
 
 
@@ -275,7 +279,7 @@ This June and is technically beginning of summer. It looked as though spring was
 Perhaps the most unexpected and rewarding aspect of this Mt. Whitney adventure was the camaraderie that developed among our hiking group. What began as a shared goal to summit California's highest peak evolved into something far more valuable. Genuine friendships forged in this process.
 
 
-```{r figGateend, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Trail gate finally. We started the ascend through this pretty gate in the dark and returned through the very same gate at dusk.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
+```{r figGateend, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "Trail gate finally. We started the ascend through this pretty gate in the dark and returned through the very same gate at dusk. In between was the experience of a lifetime that we gathered.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/gate1.jpg")
 ```
 
