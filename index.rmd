@@ -31,7 +31,7 @@ knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
 options(htmltools.dir.version = FALSE)
 ```
 
-For 12 June 2025, the alarm on the phone was set for 11:29 PM (yes, PM for a wake up!), but I was already awake since 9 PM, heart racing with anticipation. By 12:58 AM, 11 of us^[We were split into two groups at the start as previously had planned. Half of us began the ascend an hour early, but we would eventually catch up before arriving at the trail camp] and as many headlamps cut through the crisp mountain air as we began our ascent from Whitney Portal, embarking on what would become one of the most memorable alpine adventures of our lives.
+On 12 June 2025, the wake-up alarm was set on my phone for 11:29 PM. (yes, PM for a wake up!), but I was already awake since 9 PM, heart racing with anticipation. By 12:58 AM, 11 of us^[We were split into two groups at the start as previously had planned. Half of us began the ascend an hour early, but we would eventually catch up before arriving at the trail camp] and as many headlamps cut through the crisp mountain air as we began our ascent from Whitney Portal, embarking on what would become one of the most memorable alpine adventures of our lives.
 
 ```{r figGate, fig.margin = TRUE, fig.width= 8, fig.height= 8, fig.cap = "At the Whitney portal, this iconic wooden gate structure is the one every hiker will pass through. They also have a weighing machine to calibrate your backpack situation.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
 knitr::include_graphics("images/gate2.jpg")
