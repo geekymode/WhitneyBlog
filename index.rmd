@@ -313,9 +313,11 @@ Sometimes the mountain gives you the summit. Sometimes it gives you something ev
 
 # Disclaimer
 
+<!-- 
 If you haven't figured it out yet, the proofreading of this was done using a local tool developed with [Ollama](https://ollama.com). I thought it did a pretty decent job fixing the grammar (although I had to run another round of manual proofreading to avoid a few meandering issues). This is still a work in progress.
+-->
 
-The article itself is written in R Markdown. All photos (unless explicitly mentioned otherwise) are taken by myself or my hiking buddies, **The Trail Blazers**. For typesetting, I have used the Tufte handout style format (thanks to [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte)), which reads best when viewed on a computer or, if on a phone/tablet, when the device is held horizontally.
+The article itself is written in R Markdown. All photos (except one which is explicitly mentioned and source inclued) are taken by myself or my hiking friends, **The Trail Blazers**. For typesetting, I have used the Tufte handout style format (thanks to [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte)), which reads best when viewed on a computer or, if on a phone/tablet, when the device is held horizontally.
 
 ```{r bib, include=FALSE}
 # create a bib file for the R packages used in this document
